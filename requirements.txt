@@ -1,2 +1,7 @@
 streamlit
 Groq
+gradio
+ollama
+python-dotenv
+requests
+Pillow
